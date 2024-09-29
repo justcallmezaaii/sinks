@@ -1,0 +1,11 @@
+Model Information:
+* title:	Geberit VariForm round countertop washbasin
+* source:	https://sketchfab.com/3d-models/geberit-variform-round-countertop-washbasin-f0188ece07b8485ba2a352936b4e429e
+* author:	Erik Blaho (https://sketchfab.com/blahoerik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Geberit VariForm round countertop washbasin" (https://sketchfab.com/3d-models/geberit-variform-round-countertop-washbasin-f0188ece07b8485ba2a352936b4e429e) by Erik Blaho (https://sketchfab.com/blahoerik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,399 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.19981426000595093,
+        0.19975225627422333,
+        0.10411550849676132
+      ],
+      "min": [
+        -0.19981426000595093,
+        -0.19975225627422333,
+        -0.05585326999425888
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999231696128845
+      ],
+      "min": [
+        -0.9999999403953552,
+        -0.9999999403953552,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0236235857009888,
+        0.8565718531608582
+      ],
+      "min": [
+        0.033375054597854614,
+        0.11811760067939758
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 354951,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 4161,
+      "max": [
+        0.1908634901046753,
+        0.1897692233324051,
+        -0.005387463141232729
+      ],
+      "min": [
+        -0.1919127255678177,
+        -0.18856698274612427,
+        -0.040175072848796844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1622700,
+      "componentType": 5126,
+      "count": 4161,
+      "max": [
+        0.5532918572425842,
+        0.5684813857078552,
+        -0.8182247877120972
+      ],
+      "min": [
+        -0.5746041536331177,
+        -0.5648791790008545,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 4161,
+      "max": [
+        0.7245529890060425,
+        0.8687201738357544
+      ],
+      "min": [
+        0.023623496294021606,
+        0.11811761558055878
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1419804,
+      "componentType": 5125,
+      "count": 20025,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1672632,
+      "componentType": 5126,
+      "count": 12885,
+      "max": [
+        0.0989876389503479,
+        0.0989876389503479,
+        0.02501523494720459
+      ],
+      "min": [
+        -0.0989876389503479,
+        -0.0989876389503479,
+        -0.019881192594766617
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1827252,
+      "componentType": 5126,
+      "count": 12885,
+      "max": [
+        0.99857497215271,
+        0.9985752701759338,
+        1.0
+      ],
+      "min": [
+        -0.99857497215271,
+        -0.9985752701759338,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 557544,
+      "componentType": 5126,
+      "count": 12885,
+      "max": [
+        1.083994746208191,
+        0.8302959203720093
+      ],
+      "min": [
+        0.08399469405412674,
+        0.13649137318134308
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1499904,
+      "componentType": 5125,
+      "count": 62016,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Erik Blaho (https://sketchfab.com/blahoerik)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/geberit-variform-round-countertop-washbasin-f0188ece07b8485ba2a352936b4e429e",
+      "title": "Geberit VariForm round countertop washbasin"
+    },
+    "generator": "Sketchfab-15.55.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1747968,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 660624,
+      "byteOffset": 1747968,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1981872,
+      "byteOffset": 2408592,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4390464,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Geberit_Ceramic",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.10520830154418945
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Geberit VariForm (LEA)_Geberit Ceramic_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Geberit VariForm (LEA)_Geberit Ceramic_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Drain cover (LEA)_Geberit Ceramic_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "ae4fcb73f2c84ac6827ef0d0d8baca48.fbx"
+    },
+    {
+      "children": [
+        3,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        -7.42101491368885e-08,
+        4.078846454620361,
+        -8.484151692300657e-08,
+        1.0
+      ],
+      "name": "Geberit VariForm (LEA)"
+    },
+    {
+      "mesh": 0,
+      "name": "Geberit VariForm (LEA)_Geberit Ceramic_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Geberit VariForm (LEA)_Geberit Ceramic_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        33.766605377197266,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -5.501278288808846e-06,
+        -33.76660537719682,
+        0.0,
+        0.0,
+        33.76660537719682,
+        -5.501278288808846e-06,
+        0.0,
+        0.0,
+        2.882981777191162,
+        0.0,
+        1.0
+      ],
+      "name": "Drain cover (LEA)"
+    },
+    {
+      "mesh": 2,
+      "name": "Drain cover (LEA)_Geberit Ceramic_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

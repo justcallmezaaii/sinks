@@ -1,15 +1,21 @@
 /* Outdated CSS */
 body {
-    font-family: Arial, sans-serif;
+    font-family: inconsolata;
     margin: 0;
     padding: 0;
 }
 
 h1 {
     margin: 0;
+    font-family: 'Bungee';
+    font-style: normal;
+    font-weight: 400;
+    font-size:60px;
 }
 
 ul {
+    font-family: 'Bungee';
+    font-size: 45px;
     margin: 0;
     padding: 0;
 }
@@ -28,8 +34,14 @@ img {
     width: 100%;
     height: auto;
 }
+moder-viewer{
+    width: auto;
+    height: auto;
+    
+}
 
 table {
     width: 100%;
     border-collapse: collapse;
+ 
 }
